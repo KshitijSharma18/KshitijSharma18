@@ -1,5 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kshitij Sharma</h1>
-<h3 align="center">I'm an Front-End developer who loves to develop exciting and unique Web Applications. I specifically code in JavaScript. Lately, working mainly on MERN Stack. I'm interested in Full-time Web Development.</h3>
+<h3 align="center">I'm a Front-End Developer with a passion for developing exciting and unique Web Applications. My primary language of choice is JavaScript, and I specialize in building responsive and intuitive user interfaces.
+
+Recently, I've been working mainly on the MERN Stack (MongoDB, Express.js, React.js, and Node.js), where I have been able to leverage my skills to develop web applications that are both functional and visually appealing. I also have experience working with HTML5, CSS3, and various JavaScript libraries and frameworks.
+
+My GitHub repository is a collection of personal projects that showcase my skills and interests in web development. These projects range from simple applications that demonstrate a specific functionality, to larger projects that incorporate multiple features and technologies.
+
+Currently, I am seeking Full-time Web Development opportunities, where I can continue to develop my skills and contribute to the creation of innovative web applications. If you are interested in learning more about my work or would like to connect, please feel free to reach out to me. Thank you for visiting my profile!</h3>
 
 - 🔭 I’m currently working on [e-commerce application using MERN stack, which is inspired by Amazon.](https://github.com/KshitijSharma18/InstantShop.git)
 
